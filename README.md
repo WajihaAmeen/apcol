@@ -1,2 +1,2 @@
 # apcol
-this is third reposiy
+this is third repository
